@@ -11,7 +11,6 @@
             "SlimCms\\": "src/"
         }
     },
-    "minimum-stability": "dev",
     "config": {
         "preferred-install": "source",
         "github-protocols": ["https"],
