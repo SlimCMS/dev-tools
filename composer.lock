@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6b64297821f078762dc92a8598a80708",
+    "content-hash": "cf658d7e7f53377a295b695ac3627fc9",
     "packages": [
         {
             "name": "nikic/fast-route",
@@ -453,16 +453,16 @@
         },
         {
             "name": "slimcms/slimcms",
-            "version": "dev-main",
+            "version": "0.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/SlimCMS/SlimCMS.git",
-                "reference": "abfc1a511b1a49d3ad2b4257e4849a340c476cb3"
+                "reference": "2e8cc62fd21d55fd0a8b1d6c590757d9a976e8dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/SlimCMS/SlimCMS/zipball/abfc1a511b1a49d3ad2b4257e4849a340c476cb3",
-                "reference": "abfc1a511b1a49d3ad2b4257e4849a340c476cb3",
+                "url": "https://api.github.com/repos/SlimCMS/SlimCMS/zipball/2e8cc62fd21d55fd0a8b1d6c590757d9a976e8dc",
+                "reference": "2e8cc62fd21d55fd0a8b1d6c590757d9a976e8dc",
                 "shasum": ""
             },
             "require": {
@@ -477,7 +477,6 @@
                 "phpunit/phpunit": "^9.5",
                 "symfony/var-dumper": "^5.2"
             },
-            "default-branch": true,
             "type": "project",
             "autoload": {
                 "files": [
@@ -493,17 +492,15 @@
             ],
             "support": {
                 "issues": "https://github.com/SlimCMS/SlimCMS/issues",
-                "source": "https://github.com/SlimCMS/SlimCMS/tree/main"
+                "source": "https://github.com/SlimCMS/SlimCMS/tree/0.0.1"
             },
-            "time": "2021-01-23T18:43:33+00:00"
+            "time": "2021-01-23T18:41:29+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "slimcms/slimcms": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
