@@ -1,0 +1,20 @@
+{
+    "name": "slimcms/dev-tools",
+    "description": "Package for developers",
+    "license": "MIT",
+    "require": {
+        "php": "^8.0",
+        "slimcms/slimcms": "dev-main"
+    },
+    "autoload": {
+        "psr-4": {
+            "SlimCms\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "preferred-install": "source",
+        "github-protocols": ["https"],
+        "sort-packages": true
+    }
+}

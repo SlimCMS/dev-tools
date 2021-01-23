@@ -1,0 +1,21 @@
+{
+    "name": "slimcms/installer",
+    "type": "composer-plugin",
+    "description": "The installer.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Slimcms\\Composer\\Plugin\\": "src/"
+        }
+    },
+    "extra": {
+        "class": "Slimcms\\Composer\\Plugin\\Plugin"
+    },
+    "require": {
+        "php": ">=7.2",
+        "composer-plugin-api": "^2.0"
+    },
+    "require-dev": {
+        "composer/composer": "^2.0"
+    }
+}

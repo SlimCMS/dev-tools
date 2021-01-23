@@ -1,0 +1,12 @@
+{
+    "name": "slimcms/default-theme",
+    "description": "Default theme of the SlimCMS",
+    "type": "slimcms-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "akiosarkiz",
+            "email": "akiosarkiz@gmail.com"
+        }
+    ]
+}
