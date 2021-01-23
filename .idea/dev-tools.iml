@@ -6,16 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="SlimCms\" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/slimcms/installer" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/opis/closure" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/nikic/fast-route" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/php-di/invoker" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/php-di/phpdoc-reader" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/container" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/php-di/php-di" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/slimcms/slimcms" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/slimcms/admin-panel" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/slimcms/default-theme" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/slimcms/core" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
